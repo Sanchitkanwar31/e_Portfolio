@@ -5,8 +5,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** Bootstrap (if used)
-- **Animations:** CSS animations/JavaScript effects (if applicable)
+- **Libraries:** Bootstrap 
 
 ## 📌 Features
 - **About Me:** A section detailing my skills and expertise.
@@ -17,7 +16,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/Sanchitkanwar31/e_Portfolio.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -40,8 +39,8 @@ portfolio/
 
 ## 📧 Contact
 - **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanchit-kanwar-6aa039283/)
+- **GitHub:** [github.com/yourusername](https://github.com/Sanchitkanwar31)
 
 ## 📜 License
 This project is open-source and available under the MIT License.
