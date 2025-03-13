@@ -35,12 +35,11 @@ portfolio/
 ```
 
 ## 🌐 Live Demo
-[Click here to visit my portfolio](https://sanchitkanwar31.github.io/e_Portfolio/) (Replace with actual URL)
-
+[Click here to visit my portfolio](https://sanchitkanwar31.github.io/e_Portfolio/)
 ## 📧 Contact
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sanchit-kanwar-6aa039283/)
-- **GitHub:** [github.com/yourusername](https://github.com/Sanchitkanwar31)
+- **Email:** sanchitkanwar31@gmail.com
+- **LinkedIn:** [linkedin.comin/sanchitkanwar](https://www.linkedin.com/in/sanchit-kanwar-6aa039283/)
+- **GitHub:** [github.com/Sanchitkanwar31](https://github.com/Sanchitkanwar31)
 
 ## 📜 License
 This project is open-source and available under the MIT License.
